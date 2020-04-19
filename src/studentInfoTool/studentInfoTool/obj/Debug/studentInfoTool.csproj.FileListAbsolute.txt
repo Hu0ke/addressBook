@@ -1,0 +1,14 @@
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\bin\Debug\studentInfoTool.exe
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\bin\Debug\studentInfoTool.pdb
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.csprojResolveAssemblyReference.cache
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.frmMain.resources
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.frmLogin.resources
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.frmLogout.resources
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.frmOther.resources
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.Properties.Resources.resources
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.frmRegister.resources
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.frmModify.resources
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.csproj.GenerateResource.Cache
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.csproj.CoreCompileInputs.cache
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.exe
+E:\机电\实训\2017年第1学期C#程序设计实训相关\通讯录管理系统\studentInfoTool\studentInfoTool\obj\Debug\studentInfoTool.pdb

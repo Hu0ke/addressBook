@@ -1,0 +1,13 @@
+bin\Debug\studentInfoTool.exe
+bin\Debug\studentInfoTool.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\studentInfoTool.Properties.Resources.resources
+obj\Debug\studentInfoTool.csproj.GenerateResource.Cache
+obj\Debug\studentInfoTool.exe
+obj\Debug\studentInfoTool.pdb
+obj\Debug\studentInfoTool.frmLogin.resources
+obj\Debug\studentInfoTool.frmMain.resources
+obj\Debug\studentInfoTool.frmLogout.resources
+obj\Debug\studentInfoTool.frmRegister.resources
+obj\Debug\studentInfoTool.frmModify.resources
+obj\Debug\studentInfoTool.frmOther.resources
